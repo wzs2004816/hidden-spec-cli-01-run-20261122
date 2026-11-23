@@ -1,5 +1,9 @@
 # mend — one patch tool for every AI edit format
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/wzs2004816/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/wzs2004816/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 `mend` is a small command-line tool that applies a patch to a tree of text
 files. It reads a patch in one of four formats, finds the lines each edit
 names, and writes every change or none: a failed edit changes nothing, later
@@ -90,3 +94,7 @@ is never compared.
 When `MAKEFUN_ENV_URL` is set and non-empty, `main.ts` hands over to
 `runner.ts` (the trial runner, kept exactly as the kit ships it) instead of
 running as the CLI. `runner.ts` is harness glue, not part of the tool.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zy5dg92r&utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
